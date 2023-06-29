@@ -1,1 +1,2 @@
-# H8DSFT006_P0W2_KevinGustiArswendy
+Hanya sekedar untuk pembelajaran ulang sekaligus mengingat masa-masa perjuangan selama ikut bootcamp Data Science di Hacktiv8
+ya walaupun gagal di phase 0 :')
